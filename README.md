@@ -1,9 +1,8 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
 # Tugas Praktikum Struktur Data 10
 
 > Materi: Graph  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Faiq Muhammad - 140810200011
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
@@ -41,7 +40,7 @@ Referensi:
 Praktikan hanya bisa mengubah file-file berikut:
 * `main.cpp`
 * `README.md`
-* `list.hpp`
+* `graph.hpp`
 
 > Isi `main.cpp` tidak akan diperhatikan oleh penilaian atau asisten. Jadi boleh digunakan sebagai
 > tempat untuk testing atau debugging pribadi praktikan.
