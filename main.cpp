@@ -24,6 +24,8 @@ int main() {
   g.add_edge('c', 'e');
 
   g.bfs('a', [](char a) { std::cout << a << ' '; });
+  std::cout << '\n';
+  g.dfs('a', [](char a) { std::cout << a << ' '; });
 
   return 0;
 }
