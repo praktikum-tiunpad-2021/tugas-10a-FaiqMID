@@ -114,7 +114,7 @@ class graph {
    * @return vertex-vertex saling bertetangga
    */
   bool is_edge(const VertexType &val1, const VertexType &val2) const {
-    return (_adj_list.at(val1).find(val2) != adj1.end() && _adj_list.at(val2).find(val1) != adj2.end());
+    return (_adj_list.at(val1).find(val2) != _adj_list.at(val1).end() && _adj_list.at(val2).find(val1) != _adj_list.at(val2).end());
   }
 
   /**
